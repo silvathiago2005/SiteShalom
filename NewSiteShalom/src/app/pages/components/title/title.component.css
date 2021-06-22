@@ -1,0 +1,13 @@
+.top-fixed{
+    background-color: rgb(17, 221, 221) !important;
+    color: whitesmoke;
+    font-size: 30px;
+    position: fixed;
+    width: 100%;
+    height: 8%;
+    top: 0;
+}
+
+.text-position{
+    vertical-align: middle;
+}

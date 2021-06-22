@@ -1,0 +1,9 @@
+.bottom-fixed{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
+.backgroundColor{
+    background-color: rgb(0, 85, 182) !important;
+}
